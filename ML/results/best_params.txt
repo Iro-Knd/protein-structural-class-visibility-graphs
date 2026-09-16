@@ -1,0 +1,6 @@
+VG 1D | SVM best C=316.228, gamma=0.00316228
+HVG 1D | SVM best C=1000, gamma=0.001
+HVG 2D-AND | SVM best C=1000, gamma=0.01
+HVG 2D-OR | SVM best C=316.228, gamma=0.01
+VG 2D-AND | SVM best C=316.228, gamma=0.0316228
+VG 2D-OR | SVM best C=1000, gamma=0.0316228
