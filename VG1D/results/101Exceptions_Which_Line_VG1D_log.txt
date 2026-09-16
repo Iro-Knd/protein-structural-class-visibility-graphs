@@ -1,0 +1,18 @@
+Comparing up to 4 decimals | rows in common: 1672
+
+
+================================================================================
+python_row=1198 | excel_row=1200 | diffs=5
+- x_average_shortest_path_length: Zervou=4.0864 | Iro=4.0872 | abs_diff=0.0007999999999999119
+- x_clustering_coefficient: Zervou=0.9705 | Iro=0.9691 | abs_diff=0.0014000000000000679
+- x_energy: Zervou=859.5375 | Iro=863.305 | abs_diff=3.7674999999999272
+- x_laplacian_energy: Zervou=7551.3592 | Iro=7398.221 | abs_diff=153.13820000000032
+- x_pearson_correlation_coefficient: Zervou=0.869 | Iro=0.8407 | abs_diff=0.028299999999999992
+
+================================================================================
+python_row=1409 | excel_row=1411 | diffs=3
+- x_energy: Zervou=479.3871 | Iro=479.6029 | abs_diff=0.21580000000000155
+- x_laplacian_energy: Zervou=4461.6223 | Iro=4458.9727 | abs_diff=2.6495999999997366
+- x_pearson_correlation_coefficient: Zervou=0.9075 | Iro=0.9074 | abs_diff=9.999999999998899e-05
+
+Total rows with differences: 2
