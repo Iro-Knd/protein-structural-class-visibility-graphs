@@ -1,0 +1,99 @@
+Comparing up to 4 decimals | rows in common: 1672
+
+
+================================================================================
+python_row=109 | excel_row=111 | diffs=16
+- x_max_degree: Zervou=55.0 | Iro=61.0 | abs_diff=6.0
+- x_average_shortest_path_length: Zervou=3.5904 | Iro=3.3525 | abs_diff=0.23789999999999978
+- x_diameter: Zervou=9.0 | Iro=6.0 | abs_diff=3.0
+- x_clustering_coefficient: Zervou=0.1282 | Iro=0.1177 | abs_diff=0.01050000000000001
+- x_energy: Zervou=140.7535 | Iro=141.5511 | abs_diff=0.7975999999999885
+- x_laplacian_energy: Zervou=213.2874 | Iro=219.5386 | abs_diff=6.251200000000011
+- x_pearson_correlation_coefficient: Zervou=-0.2428 | Iro=-0.2551 | abs_diff=0.012300000000000005
+- x_average_closeness_centrality: Zervou=0.2901 | Iro=0.3091 | abs_diff=0.01899999999999996
+- y_max_degree: Zervou=56.0 | Iro=61.0 | abs_diff=5.0
+- y_average_shortest_path_length: Zervou=3.7012 | Iro=3.5218 | abs_diff=0.17940000000000023
+- y_diameter: Zervou=10.0 | Iro=7.0 | abs_diff=3.0
+- y_clustering_coefficient: Zervou=0.1252 | Iro=0.1169 | abs_diff=0.008300000000000002
+- y_energy: Zervou=140.6204 | Iro=141.2898 | abs_diff=0.6694000000000244
+- y_laplacian_energy: Zervou=212.3971 | Iro=217.5862 | abs_diff=5.189099999999996
+- y_pearson_correlation_coefficient: Zervou=-0.244 | Iro=-0.2545 | abs_diff=0.01050000000000001
+- y_average_closeness_centrality: Zervou=0.2833 | Iro=0.2971 | abs_diff=0.013799999999999979
+
+================================================================================
+python_row=272 | excel_row=274 | diffs=15
+- x_max_degree: Zervou=55.0 | Iro=60.0 | abs_diff=5.0
+- x_average_shortest_path_length: Zervou=6.4851 | Iro=6.4484 | abs_diff=0.03669999999999973
+- x_diameter: Zervou=14.0 | Iro=11.0 | abs_diff=3.0
+- x_clustering_coefficient: Zervou=0.2027 | Iro=0.1972 | abs_diff=0.005500000000000005
+- x_energy: Zervou=753.6196 | Iro=754.2995 | abs_diff=0.6798999999999751
+- x_laplacian_energy: Zervou=1137.0482 | Iro=1141.8545 | abs_diff=4.806299999999965
+- x_pearson_correlation_coefficient: Zervou=-0.217 | Iro=-0.2097 | abs_diff=0.007300000000000001
+- x_average_closeness_centrality: Zervou=0.1575 | Iro=0.1582 | abs_diff=0.0007000000000000062
+- y_max_degree: Zervou=56.0 | Iro=60.0 | abs_diff=4.0
+- y_average_shortest_path_length: Zervou=8.5042 | Iro=8.4797 | abs_diff=0.02450000000000152
+- y_clustering_coefficient: Zervou=0.2012 | Iro=0.1968 | abs_diff=0.004399999999999987
+- y_energy: Zervou=751.3468 | Iro=751.8793 | abs_diff=0.5324999999999136
+- y_laplacian_energy: Zervou=1121.6622 | Iro=1125.5037 | abs_diff=3.8414999999999964
+- y_pearson_correlation_coefficient: Zervou=-0.2127 | Iro=-0.2068 | abs_diff=0.005899999999999989
+- y_average_closeness_centrality: Zervou=0.1209 | Iro=0.1213 | abs_diff=0.00040000000000001146
+
+================================================================================
+python_row=1123 | excel_row=1125 | diffs=16
+- x_max_degree: Zervou=55.0 | Iro=76.0 | abs_diff=21.0
+- x_average_shortest_path_length: Zervou=12.3066 | Iro=11.4596 | abs_diff=0.8469999999999995
+- x_diameter: Zervou=31.0 | Iro=20.0 | abs_diff=11.0
+- x_clustering_coefficient: Zervou=0.1846 | Iro=0.1477 | abs_diff=0.03689999999999999
+- x_energy: Zervou=413.0894 | Iro=415.6859 | abs_diff=2.596499999999992
+- x_laplacian_energy: Zervou=592.0824 | Iro=612.4678 | abs_diff=20.385400000000004
+- x_pearson_correlation_coefficient: Zervou=-0.1692 | Iro=-0.1682 | abs_diff=0.0010000000000000009
+- x_average_closeness_centrality: Zervou=0.0836 | Iro=0.0889 | abs_diff=0.005300000000000013
+- y_max_degree: Zervou=56.0 | Iro=76.0 | abs_diff=20.0
+- y_average_shortest_path_length: Zervou=8.3407 | Iro=7.5692 | abs_diff=0.7714999999999996
+- y_diameter: Zervou=23.0 | Iro=15.0 | abs_diff=8.0
+- y_clustering_coefficient: Zervou=0.1814 | Iro=0.1477 | abs_diff=0.03370000000000001
+- y_energy: Zervou=414.0893 | Iro=416.5491 | abs_diff=2.4598000000000297
+- y_laplacian_energy: Zervou=610.4728 | Iro=630.3065 | abs_diff=19.83370000000002
+- y_pearson_correlation_coefficient: Zervou=-0.18 | Iro=-0.1756 | abs_diff=0.004399999999999987
+- y_average_closeness_centrality: Zervou=0.1259 | Iro=0.1375 | abs_diff=0.0116
+
+================================================================================
+python_row=1149 | excel_row=1151 | diffs=8
+- x_max_degree: Zervou=54.0 | Iro=55.0 | abs_diff=1.0
+- x_average_shortest_path_length: Zervou=12.0438 | Iro=11.9831 | abs_diff=0.060699999999998866
+- x_diameter: Zervou=46.0 | Iro=45.0 | abs_diff=1.0
+- x_clustering_coefficient: Zervou=0.2283 | Iro=0.226 | abs_diff=0.0022999999999999965
+- x_energy: Zervou=538.7269 | Iro=538.8633 | abs_diff=0.13639999999998054
+- x_laplacian_energy: Zervou=768.3801 | Iro=769.375 | abs_diff=0.9949000000000296
+- x_pearson_correlation_coefficient: Zervou=-0.155 | Iro=-0.1538 | abs_diff=0.0012000000000000066
+- x_average_closeness_centrality: Zervou=0.0882 | Iro=0.0885 | abs_diff=0.0002999999999999947
+
+================================================================================
+python_row=1409 | excel_row=1411 | diffs=15
+- x_max_degree: Zervou=55.0 | Iro=58.0 | abs_diff=3.0
+- x_average_shortest_path_length: Zervou=8.2552 | Iro=8.2186 | abs_diff=0.036599999999999966
+- x_diameter: Zervou=19.0 | Iro=18.0 | abs_diff=1.0
+- x_clustering_coefficient: Zervou=0.2046 | Iro=0.1971 | abs_diff=0.007500000000000007
+- x_energy: Zervou=330.7839 | Iro=331.184 | abs_diff=0.400100000000009
+- x_laplacian_energy: Zervou=475.6076 | Iro=478.3903 | abs_diff=2.782700000000034
+- x_pearson_correlation_coefficient: Zervou=-0.1596 | Iro=-0.159 | abs_diff=0.0005999999999999894
+- x_average_closeness_centrality: Zervou=0.1247 | Iro=0.1253 | abs_diff=0.0005999999999999894
+- y_max_degree: Zervou=56.0 | Iro=58.0 | abs_diff=2.0
+- y_average_shortest_path_length: Zervou=6.3574 | Iro=6.339 | abs_diff=0.01839999999999975
+- y_clustering_coefficient: Zervou=0.1976 | Iro=0.1933 | abs_diff=0.004299999999999998
+- y_energy: Zervou=330.4935 | Iro=330.7886 | abs_diff=0.2950999999999908
+- y_laplacian_energy: Zervou=484.1318 | Iro=485.9834 | abs_diff=1.851600000000019
+- y_pearson_correlation_coefficient: Zervou=-0.1676 | Iro=-0.167 | abs_diff=0.0005999999999999894
+- y_average_closeness_centrality: Zervou=0.1626 | Iro=0.1631 | abs_diff=0.0005000000000000004
+
+================================================================================
+python_row=1533 | excel_row=1535 | diffs=7
+- x_max_degree: Zervou=56.0 | Iro=57.0 | abs_diff=1.0
+- x_average_shortest_path_length: Zervou=6.2789 | Iro=6.219 | abs_diff=0.05989999999999984
+- x_diameter: Zervou=18.0 | Iro=17.0 | abs_diff=1.0
+- x_clustering_coefficient: Zervou=0.166 | Iro=0.1639 | abs_diff=0.0021000000000000185
+- x_energy: Zervou=297.6033 | Iro=297.7391 | abs_diff=0.13580000000001746
+- x_laplacian_energy: Zervou=433.9625 | Iro=434.979 | abs_diff=1.0165000000000077
+- x_average_closeness_centrality: Zervou=0.167 | Iro=0.1684 | abs_diff=0.0013999999999999846
+
+Total rows with differences: 6
